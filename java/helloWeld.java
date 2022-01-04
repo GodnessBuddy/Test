@@ -10,5 +10,7 @@ public class helloWeld {
 
         System.out.println(age2);
 
+        System.out.println(age);
+
     }
 }
