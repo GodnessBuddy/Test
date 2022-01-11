@@ -20,7 +20,5 @@ public class mehrdimensonale_arrays {
            }
            System.out.println();
         }
-
-
     }
 }
