@@ -1,9 +1,7 @@
-package java versuche;
+package verusuche_einfacher_rechner;
 
-public class versuche {
+public class Rechner {
     public static void main(String[] args) {
         
-        
-
     }
 }
