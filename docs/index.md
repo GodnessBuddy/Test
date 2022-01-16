@@ -57,3 +57,21 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
   ```
   
 </details>
+    
+    
+    
+<!DOCTYPE html>
+<head>
+<head>
+	<title>
+		“spoiler” text in github wiki pages
+	</title>
+</head>
+<body>
+	<details>
+		<summary>GeeksforGeeks</summary>
+		A Computer Science Portal for Geeks
+	</details>		
+</body>
+</html>
+****
