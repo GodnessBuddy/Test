@@ -1,5 +1,7 @@
----
-title: "erster Versuch"
-permalink: /
-layout: default
----
+<detail>
+    <sumary><b>Lösung</b
+    ></summary>
+    <p>
+    - [blaaabla]
+    </p>
+</detail>
