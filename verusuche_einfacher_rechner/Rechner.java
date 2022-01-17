@@ -7,7 +7,17 @@ public class Rechner {
         System.out.println("Möchtest du Plus, Minus, Mal oder Geteilt rechnen?");
 
         String rechenart = rechenform.nextLine();
-        Plus();
+        
+
+        System.out.println("Gebe die erste Zahl ein");
+        Scanner Zahl1 = new Scanner(System.in);
+        int number1 = Zahl1.nextInt();
+
+        System.out.println("Gebe die zweite Zahl ein");
+        Scanner Zahl2 = new Scanner(System.in);
+        int number2 = Zahl2.nextInt();
+
+        System.out.println(Zahl1 + rechenart + Zahl2);
 
 
         
