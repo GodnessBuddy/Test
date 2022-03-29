@@ -6,7 +6,7 @@ public class bücherei {
         manga[2] = new Mangas();
 
 
-        System.out.println("der titel lautet:"+ manga.getTitel[2]);
+        System.out.println("der titel lautet:"+ manga[2].getTitel());
 
         manga[100] = manga[2];
         manga[2] = null;
