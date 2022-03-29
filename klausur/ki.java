@@ -1,9 +1,7 @@
 package klausur;
-
 public class ki extends ab {
     
     public void laut(){
-
         System.out.println("meow");
     }
         public static void main(String[] args) {
@@ -13,3 +11,5 @@ public class ki extends ab {
             katze.laut();
         }
 }
+
+
